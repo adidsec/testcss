@@ -1,0 +1,1 @@
+body { display:none; } html::after { content: 'This messsage is a test '; display: block; color: blue; }
